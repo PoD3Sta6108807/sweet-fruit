@@ -132,7 +132,6 @@ main h2, main h3 {
 .main-sec {
     max-width: 50%;
     min-width: 200px;
-    max-width: 80%;
     border: 2px solid rgb(197, 109, 89);
     border-radius: 0px 0px 5px 5px;
     border-top: 4px solid rgb(197, 109, 89);
