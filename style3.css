@@ -191,10 +191,12 @@ main > h3 {
 
 .main-sec:first-child {
     background-image: url(img/furtill.jpg);
+    background-color: #ff3d75;
 }
 
 .main-sec:last-child {
     background-image: url(img/naranj.jpg);
+    background-color: #ffa13d;
 }
 
 .main-sec-flex {
@@ -244,11 +246,6 @@ main > h3 {
     border-radius: 20px;
     border: 2px #fff solid;
     box-shadow: #111 0px 0px 10px;
-    background-color: #ff3d75;
-}
-
-.main-sec:last-child {
-    background-color: #ffa13d;
 }
 
 footer {
