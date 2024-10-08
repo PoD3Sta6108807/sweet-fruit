@@ -164,7 +164,8 @@ main > h3 {
 .main-sec {
     font-size: 20px;
     min-height: 300px;
-    width: 40%;
+    min-width: 300px;
+    max-width: 85%;
     border: 2px solid rgb(197, 109, 89);
     border-radius: 0px 0px 10px 10px;
     border-top: 4px solid rgb(197, 109, 89);
