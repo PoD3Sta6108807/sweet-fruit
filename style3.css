@@ -2,6 +2,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    overflow: hidden;
 }
 
 /*T APUESTO A Q NADIE VA A VER ESTO. A NADIE LE EMPORTA COMO ESTAN ECHAS LAS COSAS*/
